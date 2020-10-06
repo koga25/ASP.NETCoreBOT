@@ -1,0 +1,4 @@
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OwinSelfHost\bin\Debug\netcoreapp3.1\OwinSelfHost.exe
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OwinSelfHost\obj\Debug\netcoreapp3.1\OwinSelfHost.csprojAssemblyReference.cache
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OwinSelfHost\obj\Debug\netcoreapp3.1\OwinSelfHost.AssemblyInfoInputs.cache
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OwinSelfHost\obj\Debug\netcoreapp3.1\OwinSelfHost.AssemblyInfo.cs

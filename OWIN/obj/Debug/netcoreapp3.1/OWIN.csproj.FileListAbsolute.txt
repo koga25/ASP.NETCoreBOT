@@ -1,0 +1,11 @@
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OWIN\bin\Debug\netcoreapp3.1\OWIN.exe
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OWIN\bin\Debug\netcoreapp3.1\OWIN.deps.json
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OWIN\bin\Debug\netcoreapp3.1\OWIN.runtimeconfig.json
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OWIN\bin\Debug\netcoreapp3.1\OWIN.runtimeconfig.dev.json
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OWIN\bin\Debug\netcoreapp3.1\OWIN.dll
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OWIN\bin\Debug\netcoreapp3.1\OWIN.pdb
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OWIN\obj\Debug\netcoreapp3.1\OWIN.csprojAssemblyReference.cache
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OWIN\obj\Debug\netcoreapp3.1\OWIN.AssemblyInfoInputs.cache
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OWIN\obj\Debug\netcoreapp3.1\OWIN.AssemblyInfo.cs
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OWIN\obj\Debug\netcoreapp3.1\OWIN.dll
+C:\Users\xerather\source\repos\ASP.NETCoreBOT\OWIN\obj\Debug\netcoreapp3.1\OWIN.pdb
